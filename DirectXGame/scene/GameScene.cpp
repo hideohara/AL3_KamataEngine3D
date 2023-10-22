@@ -2,7 +2,7 @@
 #include "TextureManager.h"
 #include <cassert>
 
-// ブランチのテスト３
+// ブランチのテスト4
 
 GameScene::GameScene() {}
 
